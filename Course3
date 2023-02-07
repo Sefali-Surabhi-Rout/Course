@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+
+Sefali Surabhi Rout
+Divide and Conquer Algorithms
+These are algorithmic techniques used to solve problems by breaking them into smaller subproblems, solving the subproblems independently, and combining the solutions to the subproblems to obtain a solution to the original problem. This approach reduces the size of the problem and makes it easier to find solutions.
